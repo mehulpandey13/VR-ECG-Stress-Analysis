@@ -14,7 +14,6 @@ The primary objectives of this project are:
 ## Repository Structure
 - `Notebook.ipynb`: Jupyter Notebook containing the implementation of the VR environment, data collection, preprocessing, and analysis using machine learning models.
 - `data/`: Folder containing sample ECG data used for the analysis.
-- `results/`: Folder containing the results of the analysis and any generated plots.
 
 ## Installation
 To run the code in this repository, you will need the following dependencies:
